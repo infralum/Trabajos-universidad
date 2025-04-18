@@ -1,2 +1,2 @@
 # Trabajos-universidad
-Trabajos de la universdidad 
+Trabajos realizados durante el transcurso de mi carrera de ingenieria en informatica.
